@@ -42,3 +42,4 @@ Versions and ethers compatibility
    configuration.rst
    mock-contract.rst
    ens.rst
+   migration-guides.rst
